@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[TestCase2-->Url Of The Header Image is:https://alchemy.hguy.co/crm/themes/default/images/company_logo.png?v=cK7kLsY0ftg72ZVHTYUT_g]]>
+    </line>
+    <line>
+      <![CDATA[TestCase1-->The tiltle of the page is: SuiteCRM]]>
+    </line>
+    <line>
+      <![CDATA[TestCase3-->First Copyright name is:© Supercharged by SuiteCRM]]>
+    </line>
+    <line>
+      <![CDATA[TestCase5-->Navigation menu color is:rgba(255, 255, 255, 1)]]>
+    </line>
+    <line>
+      <![CDATA[TestCase4-->Successfully Logged in and Verified with the menu itemSALES]]>
+    </line>
+    <line>
+      <![CDATA[TestCase6-->Menu ItemACTIVITIESExists]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->The Name is 5D Investments]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->The Name is 5D Investments]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->The Name is AB Drivers Limited]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->The Name is B.C. Investing International]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->The Name is B.H. Edwards Inc]]>
+    </line>
+    <line>
+      <![CDATA[TestCase7-->Phone Number is1234567890]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Miss Test1 lastNameWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Miss Test FirstWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Mrs. Sofia KamalWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Rakesh1 Singh1Which is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Rakesh SinghWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Mr. test testWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Nishat TasneemWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Mr. test0102 testabcd12Which is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Mr. abcd testWhich is of Usertype admin]]>
+    </line>
+    <line>
+      <![CDATA[TestCase9-->LeadName is Ms. Nandini JNWhich is of Usertype admin]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="142894" started-at="2020-08-29T02:31:48 IST" finished-at="2020-08-29T02:34:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="142894" started-at="2020-08-29T02:31:48 IST" finished-at="2020-08-29T02:34:10 IST">
+      <class name="CRMActivities.TestCase2">
+        <test-method status="PASS" signature="beforeTest2()[pri:0, instance:CRMActivities.TestCase2@27a5f880]" name="beforeTest2" is-config="true" duration-ms="6586" started-at="2020-08-29T02:31:55 IST" finished-at="2020-08-29T02:32:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest2 -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:CRMActivities.TestCase2@27a5f880]" name="testCase2" duration-ms="7580" started-at="2020-08-29T02:32:52 IST" finished-at="2020-08-29T02:32:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase2-->Url Of The Header Image is:https://alchemy.hguy.co/crm/themes/default/images/company_logo.png?v=cK7kLsY0ftg72ZVHTYUT_g]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterTest2()[pri:0, instance:CRMActivities.TestCase2@27a5f880]" name="afterTest2" is-config="true" duration-ms="4359" started-at="2020-08-29T02:33:36 IST" finished-at="2020-08-29T02:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest2 -->
+      </class> <!-- CRMActivities.TestCase2 -->
+      <class name="CRMActivities.TestCase1">
+        <test-method status="PASS" signature="beforeTest1()[pri:0, instance:CRMActivities.TestCase1@394e1a0f]" name="beforeTest1" is-config="true" duration-ms="7569" started-at="2020-08-29T02:31:48 IST" finished-at="2020-08-29T02:31:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest1 -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:CRMActivities.TestCase1@394e1a0f]" name="testCase1" duration-ms="7663" started-at="2020-08-29T02:32:52 IST" finished-at="2020-08-29T02:33:00 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase1-->The tiltle of the page is: SuiteCRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterTest1()[pri:0, instance:CRMActivities.TestCase1@394e1a0f]" name="afterTest1" is-config="true" duration-ms="116" started-at="2020-08-29T02:33:36 IST" finished-at="2020-08-29T02:33:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest1 -->
+      </class> <!-- CRMActivities.TestCase1 -->
+      <class name="CRMActivities.TestCase4">
+        <test-method status="PASS" signature="beforeTest4()[pri:0, instance:CRMActivities.TestCase4@5f282abb]" name="beforeTest4" is-config="true" duration-ms="6987" started-at="2020-08-29T02:32:09 IST" finished-at="2020-08-29T02:32:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest4 -->
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:CRMActivities.TestCase4@5f282abb]" name="testCase4" duration-ms="21281" started-at="2020-08-29T02:32:52 IST" finished-at="2020-08-29T02:33:13 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase4-->Successfully Logged in and Verified with the menu itemSALES]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method status="PASS" signature="afterTest4()[pri:0, instance:CRMActivities.TestCase4@5f282abb]" name="afterTest4" is-config="true" duration-ms="4338" started-at="2020-08-29T02:33:44 IST" finished-at="2020-08-29T02:33:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest4 -->
+      </class> <!-- CRMActivities.TestCase4 -->
+      <class name="CRMActivities.TestCase3">
+        <test-method status="PASS" signature="beforeTest3()[pri:0, instance:CRMActivities.TestCase3@1d29cf23]" name="beforeTest3" is-config="true" duration-ms="6951" started-at="2020-08-29T02:32:02 IST" finished-at="2020-08-29T02:32:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest3 -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:CRMActivities.TestCase3@1d29cf23]" name="testCase3" duration-ms="7701" started-at="2020-08-29T02:32:52 IST" finished-at="2020-08-29T02:33:00 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase3-->First Copyright name is:© Supercharged by SuiteCRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="afterTest3()[pri:0, instance:CRMActivities.TestCase3@1d29cf23]" name="afterTest3" is-config="true" duration-ms="4329" started-at="2020-08-29T02:33:40 IST" finished-at="2020-08-29T02:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest3 -->
+      </class> <!-- CRMActivities.TestCase3 -->
+      <class name="CRMActivities.TestCase6">
+        <test-method status="PASS" signature="beforeTest6()[pri:0, instance:CRMActivities.TestCase6@1e965684]" name="beforeTest6" is-config="true" duration-ms="7230" started-at="2020-08-29T02:32:23 IST" finished-at="2020-08-29T02:32:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest6 -->
+        <test-method status="PASS" signature="testCase6()[pri:0, instance:CRMActivities.TestCase6@1e965684]" name="testCase6" duration-ms="23992" started-at="2020-08-29T02:33:00 IST" finished-at="2020-08-29T02:33:23 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase6-->Menu ItemACTIVITIESExists]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method status="PASS" signature="afterTest6()[pri:0, instance:CRMActivities.TestCase6@1e965684]" name="afterTest6" is-config="true" duration-ms="4335" started-at="2020-08-29T02:33:53 IST" finished-at="2020-08-29T02:33:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest6 -->
+      </class> <!-- CRMActivities.TestCase6 -->
+      <class name="CRMActivities.TestCase5">
+        <test-method status="PASS" signature="beforeTest5()[pri:0, instance:CRMActivities.TestCase5@167fdd33]" name="beforeTest5" is-config="true" duration-ms="7475" started-at="2020-08-29T02:32:16 IST" finished-at="2020-08-29T02:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest5 -->
+        <test-method status="PASS" signature="testCase5()[pri:0, instance:CRMActivities.TestCase5@167fdd33]" name="testCase5" duration-ms="16090" started-at="2020-08-29T02:32:52 IST" finished-at="2020-08-29T02:33:08 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase5-->Navigation menu color is:rgba(255, 255, 255, 1)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method status="PASS" signature="afterTest5()[pri:0, instance:CRMActivities.TestCase5@167fdd33]" name="afterTest5" is-config="true" duration-ms="4357" started-at="2020-08-29T02:33:49 IST" finished-at="2020-08-29T02:33:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest5 -->
+      </class> <!-- CRMActivities.TestCase5 -->
+      <class name="CRMActivities.TestCase8">
+        <test-method status="PASS" signature="beforeTest8()[pri:0, instance:CRMActivities.TestCase8@53f65459]" name="beforeTest8" is-config="true" duration-ms="6260" started-at="2020-08-29T02:32:38 IST" finished-at="2020-08-29T02:32:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest8 -->
+        <test-method status="PASS" signature="testCase8()[pri:0, instance:CRMActivities.TestCase8@53f65459]" name="testCase8" duration-ms="30357" started-at="2020-08-29T02:33:00 IST" finished-at="2020-08-29T02:33:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase9-->The Name is 5D Investments]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->The Name is 5D Investments]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->The Name is AB Drivers Limited]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->The Name is B.C. Investing International]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->The Name is B.H. Edwards Inc]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method status="PASS" signature="afterTest8()[pri:0, instance:CRMActivities.TestCase8@53f65459]" name="afterTest8" is-config="true" duration-ms="4331" started-at="2020-08-29T02:34:02 IST" finished-at="2020-08-29T02:34:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest8 -->
+      </class> <!-- CRMActivities.TestCase8 -->
+      <class name="CRMActivities.TestCase7">
+        <test-method status="PASS" signature="beforeTest7()[pri:0, instance:CRMActivities.TestCase7@4d95d2a2]" name="beforeTest7" is-config="true" duration-ms="7650" started-at="2020-08-29T02:32:30 IST" finished-at="2020-08-29T02:32:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest7 -->
+        <test-method status="PASS" signature="testCase7()[pri:0, instance:CRMActivities.TestCase7@4d95d2a2]" name="testCase7" duration-ms="35339" started-at="2020-08-29T02:33:00 IST" finished-at="2020-08-29T02:33:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase7-->Phone Number is1234567890]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method status="PASS" signature="afterTest7()[pri:0, instance:CRMActivities.TestCase7@4d95d2a2]" name="afterTest7" is-config="true" duration-ms="4343" started-at="2020-08-29T02:33:57 IST" finished-at="2020-08-29T02:34:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest7 -->
+      </class> <!-- CRMActivities.TestCase7 -->
+      <class name="CRMActivities.TestCase9">
+        <test-method status="PASS" signature="beforeTest9()[pri:0, instance:CRMActivities.TestCase9@3b088d51]" name="beforeTest9" is-config="true" duration-ms="7594" started-at="2020-08-29T02:32:44 IST" finished-at="2020-08-29T02:32:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest9 -->
+        <test-method status="PASS" signature="testCase9()[pri:0, instance:CRMActivities.TestCase9@3b088d51]" name="testCase9" duration-ms="27591" started-at="2020-08-29T02:33:08 IST" finished-at="2020-08-29T02:33:36 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Miss Test1 lastNameWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Miss Test FirstWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Mrs. Sofia KamalWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Rakesh1 Singh1Which is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Rakesh SinghWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Mr. test testWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Nishat TasneemWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Mr. test0102 testabcd12Which is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Mr. abcd testWhich is of Usertype admin]]>
+            </line>
+            <line>
+              <![CDATA[TestCase9-->LeadName is Ms. Nandini JNWhich is of Usertype admin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+        <test-method status="PASS" signature="afterTest9()[pri:0, instance:CRMActivities.TestCase9@3b088d51]" name="afterTest9" is-config="true" duration-ms="4338" started-at="2020-08-29T02:34:06 IST" finished-at="2020-08-29T02:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest9 -->
+      </class> <!-- CRMActivities.TestCase9 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
